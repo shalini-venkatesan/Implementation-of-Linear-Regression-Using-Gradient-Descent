@@ -114,6 +114,7 @@ PROFIT PREDICTION GRAPH
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/3538b605-7d05-46df-b69b-c74a9e510343)
 
 PROFIT FOR THE POPULATION 35,000
+
 ![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/e2065f23-8840-4690-821f-6587c045c994)
 
 
