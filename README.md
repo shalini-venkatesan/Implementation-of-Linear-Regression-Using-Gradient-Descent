@@ -97,12 +97,13 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ## Output:
 
 COMPUTE COST VALUE
+
 ![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/ea9fb1a3-8d79-479c-ac1d-ebbc9c3fc9d7)
 
 
 H(X) VALUE
-![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/2dab7816-3c38-4b56-b36e-ca6f35f5d3f4)
 
+![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/2dab7816-3c38-4b56-b36e-ca6f35f5d3f4)
 
 COST FUNCTION USING GRADIENT DESCENT GRAPH
 
