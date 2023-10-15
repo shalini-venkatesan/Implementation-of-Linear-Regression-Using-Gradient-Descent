@@ -14,14 +14,14 @@ To write a program to predict the profit of a city using the linear regression m
 4. Plot the Cost function using Gradient Descent and generate the required graph. 
 
 ## Program:
-
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: Shalini Venkatesan
 RegisterNumber:  212222240096
 */
-
-
+```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -91,34 +91,34 @@ print("For population = 35,000,we predict a profit a profit of $"+str(round(pred
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population =70,000,we predict a profit a profit of $"+str(round(predict2,0)))
-
+```
 
 
 ## Output:
 
-COMPUTE COST VALUE
+### COMPUTE COST VALUE
 
 ![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/ea9fb1a3-8d79-479c-ac1d-ebbc9c3fc9d7)
 
 
-H(X) VALUE
+### H(X) VALUE
 
 ![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/2dab7816-3c38-4b56-b36e-ca6f35f5d3f4)
 
-COST FUNCTION USING GRADIENT DESCENT GRAPH
+### COST FUNCTION USING GRADIENT DESCENT GRAPH
 
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/1bd000e1-d4d4-4c7f-9151-f24daf6fdf05)
 
-PROFIT PREDICTION GRAPH
+### PROFIT PREDICTION GRAPH
 
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/3538b605-7d05-46df-b69b-c74a9e510343)
 
-PROFIT FOR THE POPULATION 35,000
+### PROFIT FOR THE POPULATION 35,000
 
 ![image](https://github.com/shalini-venkatesan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118720291/e2065f23-8840-4690-821f-6587c045c994)
 
 
-PROFIT FOR THE POPULATION 70,000
+### PROFIT FOR THE POPULATION 70,000
 
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/8e724f8a-5f3d-45de-a682-7cfaa75d5062)
 
